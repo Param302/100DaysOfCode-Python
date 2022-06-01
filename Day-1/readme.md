@@ -7,7 +7,7 @@
 # Resources
 - Numpy Tutorial (Iterate numpy array using nditer | numpy nditer) by Codebasics YT channel: ([Video link](https://youtu.be/XawR6CjAYV4))
 - Python Pandas Tutorial Playlist by Corey Schafer YT channel: ([Playlist link](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS))
-- Stack Overflow Developer Survey 2021 ([link]((https://insights.stackoverflow.com/survey)))
+- Stack Overflow Developer Survey 2021 ([link](https://insights.stackoverflow.com/survey))
 
 ### Software used
 - Jupyter Notebook
