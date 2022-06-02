@@ -28,4 +28,4 @@
 4. Data analysis project on *Mean-Variance-Standard Deviation Calculator*
 
 ### Conclusion:
-Today I learnt how to add, modify and sort the data in pandas. Also did a Data analysis project on "Mean-Variance-Standard Deviation Calculator" from FreeCodeCamp but haven't started mathematics.
+Today I learnt how to add, modify and sort the data in pandas. Also did a Data analysis project on "Mean-Variance-Standard Deviation Calculator" from FreeCodeCamp but didn't started mathematics.
