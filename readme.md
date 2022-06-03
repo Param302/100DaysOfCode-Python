@@ -7,3 +7,4 @@ I am doing Machine Learning starting from Scratch
 1. Day - 0 Numpy [🔗](./Day-0/)
 2. Day - 1 Numpy, Pandas [🔗](./Day-1/)
 3. Day - 2 Pandas, Data Analysis project [🔗](./Day-2/)
+4. Day - 4 Pandas (Grouping & Aggregating Data [🔗](./Day-3/)
