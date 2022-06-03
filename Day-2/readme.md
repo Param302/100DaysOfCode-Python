@@ -1,4 +1,4 @@
-# Day 2 of [#100DaysofCode](https://twitter.com/Param3021/status/1532218403754496002?s=20&t=nDDm68WQNwG12Y2JdK2pxw)
+# Day 2 of [#100DaysOfCode](https://twitter.com/Param3021/status/1532218403754496002?s=20&t=nDDm68WQNwG12Y2JdK2pxw)
 
 ## Task
 - Learn Pandas
