@@ -8,7 +8,7 @@
 
 # Resources
 - Python Pandas Tutorial Playlist by Corey Schafer YT channel: ([Playlist link](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS))
-- Stack Overflow Developer Survey 2021 ([link]((https://insights.stackoverflow.com/survey)))
+- Stack Overflow Developer Survey 2021 ([link]((https://insights.stackoverflow.com/survey))
 - Ethereum Historical Dataset on Kaggle ([link](https://www.kaggle.com/datasets/prasoonkottarathil/ethereum-historical-dataset?select=ETH_1H.csv))
 
 ### Topics I have learnt
