@@ -10,3 +10,4 @@ I am doing Machine Learning starting from Scratch
 4. Day - 3 Pandas (Grouping & Aggregating Data [🔗](./Day-3/)
 5. Day - 4 Pandas (Cleaning data & Time Series Analysis) [🔗](./Day-4/)
 6. Day - 5 Pandas (Working with different data formats) & Data Analysis project [🔗](./Day-5/)
+7. Day - 6 Linear Algebra (Vectors Basics) & Data Analysis project [🔗](./Day-6/)
