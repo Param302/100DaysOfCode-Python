@@ -12,3 +12,4 @@ I am doing Machine Learning starting from Scratch
 6. Day - 5 Pandas (Working with different data formats) & Data Analysis project [🔗](./Day-5/)
 7. Day - 6 Linear Algebra (Vectors Basics) & Data Analysis project [🔗](./Day-6/)
 8. Day - 7 Matplotlib library [🔗](./Day-7/)
+9. Day - 8 Matplotlib Library [🔗](./Day-7/)
