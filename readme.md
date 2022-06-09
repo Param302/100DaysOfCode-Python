@@ -13,3 +13,4 @@ I am doing Machine Learning starting from Scratch
 7. Day - 6 Linear Algebra (Vectors Basics) & Data Analysis project [🔗](./Day-6/)
 8. Day - 7 Matplotlib library [🔗](./Day-7/)
 9. Day - 8 Matplotlib Library [🔗](./Day-7/)
+10. Day - 9 Linear Algebra (Matrices, Linear Transformations) & Data Analysis project [🔗](./Day-9/)
