@@ -1,4 +1,4 @@
-# Day 8 of [#100DaysOfCode](https://twitter.com/Param3021/status/1534808911970451456)
+# Day 9 of [#100DaysOfCode](https://twitter.com/Param3021/status/1534808911970451456)
 
 ## Task
 1. Linear Algebra (Matrices)
