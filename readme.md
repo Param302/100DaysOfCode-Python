@@ -15,3 +15,5 @@ I am doing Machine Learning starting from Scratch
 9. Day - 8 Matplotlib Library [🔗](./Day-7/)
 10. Day - 9 Linear Algebra (Matrices, Linear Transformations) & Data Analysis project [🔗](./Day-9/)
 11. Day - 10 Matplotlib & Data analysis on Titanic Dataset [🔗](./Day-10/)
+12. Day - 11 Data analysis on Titanic Dataset [🔗](./Day-11/)
+13. Day - 12 Data analysis on Titanic Dataset [🔗](./Day-12/)
