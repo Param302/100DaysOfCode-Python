@@ -17,3 +17,8 @@ I am doing Machine Learning starting from Scratch
 11. Day - 10 Matplotlib & Data analysis on Titanic Dataset [🔗](./Day-10/)
 12. Day - 11 Data analysis on Titanic Dataset [🔗](./Day-11/)
 13. Day - 12 Data analysis on Titanic Dataset [🔗](./Day-12/)
+14. Day - 13 Data analysis on Titanic Dataset [🔗](./Day-13/)
+15. Day - 14 Matplotlib Library [🔗](./Day-14/)
+16. Day - 15 Matplotlib Library[🔗](./Day-15/)
+17. Day - 16 Matplotlib & Seaborn Library [🔗](./Day-16/)
+18. Day - 17 Seaborn Library & Data Analysis project [🔗](./Day-17/)
