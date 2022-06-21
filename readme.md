@@ -22,3 +22,4 @@ I am doing Machine Learning starting from Scratch
 16. Day - 15 Matplotlib Library[🔗](./Day-15/)
 17. Day - 16 Matplotlib & Seaborn Library [🔗](./Day-16/)
 18. Day - 17 Seaborn Library & Data Analysis project [🔗](./Day-17/)
+19. Day - 18 Seaborn Library & Data Analysis project [🔗](./Day-18/)
