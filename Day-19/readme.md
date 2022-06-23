@@ -25,7 +25,7 @@
 - Random Forest (RandomForestRegressor)
 - Overfitting and Underfitting data
 - Model Validation using MAE (mean absolute error)
-1. Also did house price prediction
+2. Also did house price prediction
 
 ### Software used
 - Jupyter Notebook
@@ -38,7 +38,7 @@
 - [L2 - Explore_your_data.ipynb](./L2%20-%20Explore_your_data.ipynb)
 - [L3 - Your_first_machine_learning_model.ipynb](./L3%20-%20Your_first_machine_learning_model.ipynb)
 - [L4 - Model_validation.ipynb](./L4%20-%20Model_validation.ipynb)
-- [L5 - Underfitting_and_Overfitting.ipynb](./L5%20-%20Explore_your_data.ipynb)
+- [L5 - Underfitting_and_Overfitting.ipynb](./L5%20-%20Underfitting_and_overfitting.ipynb)
 - [L6 - Random_forests.ipynb](./L6%20-%20Random_forests.ipynb)
 - [L7 - Machine_learning_competitions.ipynb](./L7%20-%20Machine_learning_competitions.ipynb)
 - [House_price_prediction_v1.ipynb](./House_price_prediction_v1.ipynb)
