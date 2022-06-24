@@ -25,3 +25,4 @@ I am doing Machine Learning starting from Scratch
 19. Day - 18 Seaborn Library & Data Analysis project [🔗](./Day-18/)
 20. Day - 19 Intro to Machine Learning & house price prediction [🔗](./Day-19/)
 21. Day - 20 Intermediate Machine Learning & house price prediction [🔗](./Day-20/)
+22. Day - 21 Intermediate Machine Learning & house price prediction [🔗](./Day-21/)
