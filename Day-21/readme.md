@@ -32,6 +32,8 @@
 - Python 3.10.2
 - Numpy 1.22.4
 - pandas 1.4.2
+- Matplotlib 3.5.2
+- Seaborn 0.11.2
 - scikit-learn 1.1.1
 - XGBoost 1.6.1
 
