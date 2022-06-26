@@ -6,6 +6,8 @@
 3. House price prediction
 
 # Resources
+- 3 Blue 1 Brown [Linear Aglebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) playlist
+- Linear Algebra notes [link](https://hacobe.github.io/notes/linear_algebra_3blue1brown.html)
 - Kaggle [House price prediction Challenge](https://www.kaggle.com/competitions/home-data-for-ml-course/)
 - - [My Notebook 1](https://www.kaggle.com/code/param302/house-price-prediction-7)
 - - [My Notebook 2](https://www.kaggle.com/code/param302/house-price-prediction-8)
