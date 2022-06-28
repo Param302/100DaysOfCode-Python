@@ -18,7 +18,7 @@
 - What is Feature Engineering
 - How is it useful for making Models
 - Mutual Information    (shows every kind of relation in data with target)
-1. Did house price prediction 
+2. Did house price prediction 
 - With `XGBRegressor` & Mutual Information (high MI 50 columns)
 
 ### Software used
