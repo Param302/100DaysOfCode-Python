@@ -26,4 +26,5 @@ I am doing Machine Learning starting from Scratch
 20. Day - 19 Intro to Machine Learning & house price prediction [🔗](./Day-19/)
 21. Day - 20 Intermediate Machine Learning & house price prediction [🔗](./Day-20/)
 22. Day - 21 Intermediate Machine Learning & house price prediction [🔗](./Day-21/)
-23. Day - 22 Linear Algebra & house price prediction [🔗](./Day-22/)
+23. Day - 22 Statistics & house price prediction [🔗](./Day-22/)
+24. Day - 23 Linear Algebra & Statistics [🔗](./Day-23/)
