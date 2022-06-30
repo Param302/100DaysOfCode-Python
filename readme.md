@@ -31,3 +31,4 @@ I am doing Machine Learning starting from Scratch
 25. Day - 24 Linear Algebra & Statistics [🔗](./Day-24/)
 26. Day - 25 Feature Engineering & House price preidction [🔗](./Day-25/)
 27. Day - 26 Feature Engineering [🔗](./Day-26/)
+28. Day - 27 Feature Engineering & House price prediction [🔗](./Day-27/)
