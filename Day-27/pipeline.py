@@ -1,14 +1,11 @@
-# Day 26 of [#100DaysOfCode](https://twitter.com/Param3021/status/1542445802865696770)
+import pandas as pd
+from xgboost import XGBRegressor
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder
 
-## Task
-1. Clustering with K-means
-2. PCA                      (only video)
-3. House price prediction
 
----
-
-## Created `CreatePipeline` for creating pipeline and making model [🔗](./pipeline.py)
-```python
 class CreatePipeline:
     """Create Pipeline
     methods:
@@ -88,41 +85,42 @@ class CreatePipeline:
         **kwargs: keyword args for model."""
         my_model = model(random_state=random_state, n_estimators=n_estimators, **kwargs)
         return my_model
-```
-- It will create transformers, preprocessors and model and final pipeline, so that all the process from data preprocessing (imputing / transforming) done in 1 place.
-- Link of python file [🔗](./pipeline.py)
 
----
 
-# Resources
-- Kaggle's [Feature Engineering Course](https://www.kaggle.com/learn/feature-engineering)
-- - Lesson 4: [Clustering with K-means](https://www.kaggle.com/code/ryanholbrook/clustering-with-k-means) - [My Notebook](https://www.kaggle.com/code/param302/exercise-clustering-with-k-means/)
+if __name__ == "__main__":
+    # Loading data
+    house_data = pd.read_csv("./data/train.csv", index_col="Id")
+    test_data = pd.read_csv("./data/test.csv", index_col="Id")
+    X = house_data.drop(columns="SalePrice")
+    Y = house_data["SalePrice"]
+    num_cols = X.select_dtypes(exclude="object").columns
+    cat_cols = X.select_dtypes("object").columns
+    print("Data loaded and ready")
 
-- Kaggle [House price prediction Challenge](https://www.kaggle.com/competitions/home-data-for-ml-course/)
-- - [My Notebook 1](https://www.kaggle.com/param302/house-price-prediction-12)
-- - [My Notebook 1](https://www.kaggle.com/param302/house-price-prediction-13)
+    print("Creating Pipeline")
+    # Creating Pipeline class
+    cp = CreatePipeline()
+    num_transformer = cp.numerical_transformer()
+    cat_transformer = cp.categorical_transformer(
+                        encoder_params={
+                            "handle_unknown":"use_encoded_value", 
+                            "unknown_value":-1
+                    })
+    print("Preprocessing data")
+    # preprocessor
+    preprocessor = cp.data_preprocessor(
+        transformers=[("num", num_transformer, num_cols),
+                    ("cat", cat_transformer, cat_cols)
+                    ])
+    
+    print("Creating model (XGBRgressor)")
+    # Creating model (XGBRgressor)
+    model = cp.create_model(model=XGBRegressor, n_estimators=500, learning_rate=0.05)
+    pipeline = cp.pipeline(preprocessor=preprocessor, model=model)
 
-### Topics I have learnt
-1. Clustering with K-means
-2. PCA
-3. House price prediction
-- One with Mutual Information and used `XGBRegressor`       (Score: 14900.48264)
-- One with creating new features and used `XGBRegressor`    (Score: 15078.56818)
-
-### Software used
-- Jupyter Notebook
-- Python 3.10.2
-- Numpy 1.22.4
-- pandas 1.4.2
-- Matplotlib 3.5.2
-- Seaborn 0.11.2
-- scikit-learn 1.1.1
-- XGBoost 1.6.1
-
-### My Notebooks
-- [House_price_prediction_12.ipynb](./House_price_prediction_12.ipynb)
-- [House_price_prediction_13.ipynb](./House_price_prediction_13.ipynb)
-- [L4 - Clustering_with_K-means.ipynb](./L4%20-%20Clustering_with_k-means.ipynb)
-
-### Conclusion:
-Today I learned about K-means clustering and PCA. Also did house price prediction with `XGBRegressor` and feature engineering.
+    print("Training my model")
+    pipeline.fit(X, Y)
+    
+    print("Predictions are:")
+    test_preds = pipeline.predict(test_data)
+    print(test_preds)
