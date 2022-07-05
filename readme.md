@@ -32,3 +32,7 @@ I am doing Machine Learning starting from Scratch
 26. Day - 25 Feature Engineering & House price preidction [🔗](./Day-25/)
 27. Day - 26 Feature Engineering [🔗](./Day-26/)
 28. Day - 27 Feature Engineering & House price prediction [🔗](./Day-27/)
+29. Day - 28 Linear Algebra & PCA [🔗](./Day-28/)
+30. Day - 29 Linear Algebra & Statistics [🔗](./Day-29/)
+31. Day - 30 Titanic dataset prediction [🔗](./Day-30/)
+32. Day - 31 Titanic dataset prediction [🔗](./Day-31/)

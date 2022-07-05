@@ -1,4 +1,4 @@
-# Day 26 of [#100DaysOfCode](https://twitter.com/Param3021/status/1542445802865696770)
+# Day 27 of [#100DaysOfCode](https://twitter.com/Param3021/status/1542445802865696770)
 
 ## Task
 1. Clustering with K-means
