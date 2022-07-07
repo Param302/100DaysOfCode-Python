@@ -37,3 +37,4 @@ I am doing Machine Learning starting from Scratch
 31. Day - 30 Titanic dataset prediction & GHW hackathon [🔗](./Day-30/)
 32. Day - 31 Titanic dataset prediction & GHW hackathon [🔗](./Day-31/)
 33. Day - 32 Titanic dataset prediction & GHW hackathon [🔗](./Day-32/)
+34. Day - 33 Titanic dataset prediction & GHW hackathon [🔗](./Day-33/)
