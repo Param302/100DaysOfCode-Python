@@ -3,7 +3,7 @@ I have created a repository having all my notes and codes of Machine learning sp
 
 ## Task
 1. Supervised vs Unsupervised learning
-2. Regression model
+2. Regression model (not started)
 
 ## Resources
 - Machine Learning Specialization Course [🔗](https://www.deeplearning.ai/courses/machine-learning-specialization/)
