@@ -46,3 +46,4 @@ I am doing Machine Learning starting from Scratch
 40. Day - 39 Linear Regression and it's Cost function [🔗](./Day-34/)
 41. Day - 40 Working of Cost function [🔗](./Day-34/)
 42. Day - 41 Gradient Descent [🔗](./Day-34/)
+43. Day - 42 Completed Week 1 of ML course & Gradient Descent [🔗](./Day-34/)
