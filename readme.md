@@ -39,3 +39,7 @@ I am doing Machine Learning starting from Scratch
 33. Day - 32 Titanic dataset prediction & GHW hackathon [🔗](./Day-32/)
 34. Day - 33 Titanic dataset prediction & GHW hackathon [🔗](./Day-33/)
 35. Day - 34 Titanic dataset prediction & GHW hackathon [🔗](./Day-34/)
+36. Day - 35 Regression & Classification Random Forest [🔗](./Day-34/)
+37. Day - 36 Started ML Speicalization course & Revised Mathematics [🔗](./Day-34/)
+38. Day - 37 Supervised vs unsupervised learning and Regression model [🔗](./Day-34/)
+
