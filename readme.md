@@ -42,4 +42,5 @@ I am doing Machine Learning starting from Scratch
 36. Day - 35 Regression & Classification Random Forest [🔗](./Day-34/)
 37. Day - 36 Started ML Speicalization course & Revised Mathematics [🔗](./Day-34/)
 38. Day - 37 Supervised vs unsupervised learning and Regression model [🔗](./Day-34/)
+39. Day - 38 Linear Regression and Notations in ML [🔗](./Day-34/)
 
