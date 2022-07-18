@@ -45,3 +45,4 @@ I am doing Machine Learning starting from Scratch
 39. Day - 38 Linear Regression and Notations in ML [🔗](./Day-34/)
 40. Day - 39 Linear Regression and it's Cost function [🔗](./Day-34/)
 41. Day - 40 Working of Cost function [🔗](./Day-34/)
+42. Day - 41 Gradient Descent [🔗](./Day-34/)
