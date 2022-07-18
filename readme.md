@@ -43,4 +43,5 @@ I am doing Machine Learning starting from Scratch
 37. Day - 36 Started ML Speicalization course & Revised Mathematics [🔗](./Day-34/)
 38. Day - 37 Supervised vs unsupervised learning and Regression model [🔗](./Day-34/)
 39. Day - 38 Linear Regression and Notations in ML [🔗](./Day-34/)
-
+40. Day - 39 Linear Regression and it's Cost function [🔗](./Day-34/)
+41. Day - 40 Working of Cost function [🔗](./Day-34/)
